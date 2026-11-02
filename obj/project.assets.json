@@ -8,23 +8,23 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mcdan\\.nuget\\packages\\": {},
+    "C:\\Users\\raroa\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\HCL .NET\\Hospital\\Hospital.csproj",
+      "projectUniqueName": "D:\\Dhanush\\Hospital.csproj",
       "projectName": "Hospital",
-      "projectPath": "C:\\HCL .NET\\Hospital\\Hospital.csproj",
-      "packagesPath": "C:\\Users\\mcdan\\.nuget\\packages\\",
-      "outputPath": "C:\\HCL .NET\\Hospital\\obj\\",
+      "projectPath": "D:\\Dhanush\\Hospital.csproj",
+      "packagesPath": "C:\\Users\\raroa\\.nuget\\packages\\",
+      "outputPath": "D:\\Dhanush\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\mcdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\raroa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

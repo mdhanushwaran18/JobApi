@@ -9,6 +9,7 @@ namespace Hospital
         public Patient()
         {
             Console.WriteLine("I am a Patient");
+            Console.WriteLine("I am a Roashan");
         }
     }
 }
